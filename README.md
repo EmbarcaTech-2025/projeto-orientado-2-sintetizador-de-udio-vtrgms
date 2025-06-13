@@ -1,7 +1,7 @@
 
 # Projetos de Sistemas Embarcados - EmbarcaTech 2025
 
-Autor: **Insira Seu Nome**
+Autor: Vitor Gomes
 
 Curso: Residência Tecnológica em Sistemas Embarcados
 
